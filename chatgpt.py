@@ -41,4 +41,5 @@ async def on_message(message):
 client.run(DISCORD_TOKEN)
 
 # things to add
-# maybe add a specific command for code blocksaa
+# maybe add a specific command for code blocks
+# THe bot is replying to every message with some random stuff
