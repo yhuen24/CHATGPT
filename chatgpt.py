@@ -42,4 +42,4 @@ client.run(DISCORD_TOKEN)
 
 # things to add
 # maybe add a specific command for code blocks
-# THe bot is replying to every message with some random stuff
+# (Need to fix) THe bot is replying to every message with some random stuff
